@@ -131,18 +131,3 @@ Btech ug | Python | SQL | AI & ML Enthusiast
 Thanks to open-source datasets and libraries that made this project possible.
 
 
----
-
-### ✅ Why this README works well for GitHub & Interviews
-# ✔ Clear **problem → solution → deployment** flow  
-# ✔ Shows **end-to-end ML project ownership**  
-# ✔ Streamlit deployment adds **real-world value**  
-# ✔ Clean structure recruiters love  
-
-# If you want, I can also:
-# - ✨ Make it **resume-optimized**
-# - 🧾 Add a **sample input/output section**
-# - 📸 Add **Streamlit UI screenshots**
-# - 🔗 Write a **LinkedIn post** for this project  
-
-# Just tell me 👍
